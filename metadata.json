@@ -1,0 +1,5 @@
+{
+  "name": "LLM Healthcare Prompt Evaluator",
+  "description": "A research-oriented framework for testing prompt engineering strategies, hallucination risks, and bias in healthcare AI outputs.",
+  "requestFramePermissions": []
+}
